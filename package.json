@@ -1,0 +1,14 @@
+{
+  "name": "line-group-id",
+  "version": "1.0.0",
+  "description": "System to get LINE Group ID",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^9.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
